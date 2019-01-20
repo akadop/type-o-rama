@@ -125,16 +125,19 @@ Who needs it:
 
 ### GraphQL to TypeScript
 
+* [graphql-code-generator](https://graphql-code-generator.com/)
 * [gql2ts](https://github.com/avantcredit/gql2ts)
 * [apollo-codegen](https://github.com/apollographql/apollo-codegen)
 * [transform.now.sh](https://transform.now.sh/graphql-to-typescript/)
 
 See also:
 
+* [typed-graphqlify](https://github.com/acro5piano/typed-graphqlify). Build Typed GraphQL Query in TypeScript. Better TypeScript + GraphQL experience
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin)
 
 ### GraphQL to Flow
 
+* [graphql-code-generator](https://graphql-code-generator.com/)
 * [gql2flow](https://github.com/joarwilk/gql2flow)
 * [apollo-codegen](https://github.com/apollographql/apollo-codegen)
 * [transform.now.sh](https://transform.now.sh/graphql-to-flow/)
@@ -424,6 +427,7 @@ I suppose this can be used for Scala.js.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql)
 * [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql)
 * [graphile](https://www.graphile.org/)
+* [postgraphile](https://github.com/graphile/postgraphile)
 
 ### SQL to gRPC
 
